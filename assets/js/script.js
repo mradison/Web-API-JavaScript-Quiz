@@ -46,7 +46,7 @@ const allQuestions = [
 
 
 function startGame() {
-    timerCount = 100;
+    timerCount = 10;
     startButton.disabled = true;
     timer = setInterval(startTimer, 1000);
 }
@@ -64,6 +64,7 @@ function startTimer() {
     if (timerCount === 0) {
         clearInterval(timer);
         console.log("game = 0")
+        window.location.href = "index1.html"
         //loseGame();
     }
 
@@ -119,11 +120,18 @@ choicesOptions.addEventListener('click', function (event) {
             showQuestion()
         } else {
             console.log('end quiz')
-            location.replace("https://www.w3schools.com")
+            window.location.href = "index1.html"
             // end quiz and go to highscore page
             //have them enter their initials and store their initials and scores in the localStorage 
         }
     } else {
+        currentIndex++
+        if (currentIndex < allQuestions.length) {
+            showQuestion()
+        } else {
+            window.location.href = "index1.html"
+        }
+
         console.log('wrong answer')
 
         timerCount -= 10;
