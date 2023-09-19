@@ -1,9 +1,18 @@
+h1 {
+    text-decoration: underline;
+}
+
 body {
     background-color: blue;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: center;
     justify-content: center;
+    margin-top: 150px;
+}
+
+form {
+    padding: 50px;
 }
 
 form {

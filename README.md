@@ -60,5 +60,19 @@ https://www.youtube.com/watch?v=UH5QPYMFlIM
 
 https://dev.to/javascript_jeep/how-to-empty-the-dom-element-in-javascript-nf8
 
+https://www.youtube.com/watch?v=6R9SaZdyaVU
+
+https://www.youtube.com/watch?v=hG0YDpePCjI
+
+https://www.youtube.com/watch?v=bhHa6AL4aBo
+
+https://www.youtube.com/watch?v=96hV2FTg1dU
+
+https://www.youtube.com/watch?v=AUOzvFzdIk4
+
+https://www.youtube.com/watch?v=w9GNyw8AvlM
+
+
+
 
 
