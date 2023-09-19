@@ -30,7 +30,17 @@ THEN I can save my initials and my score
 
 ## Mock-Up
 
-Here is a link to a screenshot of what the quiz looks like: 
+Here is a link to a screenshot of what the quiz looks like and my repository and live pages:
+
+![image](https://github.com/mradison/Web-API-JavaScript-Quiz/assets/58490851/491fadb6-172e-4bb5-a77e-c1f87ec09e6e)
+
+![image](https://github.com/mradison/Web-API-JavaScript-Quiz/assets/58490851/fb68b201-18cb-40a7-a607-96c704e04355)
+
+
+https://github.com/mradison/Web-API-JavaScript-Quiz
+
+https://mradison.github.io/Web-API-JavaScript-Quiz/
+
 
 ## Notes
 
