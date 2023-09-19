@@ -3,7 +3,7 @@ var startButton = document.querySelector(".start-quiz");
 var questionOptions = document.querySelector("#question");
 var choicesOptions = document.querySelector("#choices")
 
-var timerCount = 100;
+var timerCount = 50;
 var timer;
 var currentIndex = 0;
 var finalScore = 0;
@@ -31,7 +31,7 @@ const allQuestions = [
 ]
 
 function startGame() {
-    timerCount = 10;
+    timerCount = 50;
     startButton.disabled = true;
     timer = setInterval(startTimer, 1000);
 }

@@ -34,5 +34,21 @@ Here is a link to a screenshot of what the quiz looks like:
 
 ## Notes
 
-Here are some websites I used to help me with my assignment (I also got help from my instructor, TA and Tutor):
+Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
+
+(this is where I got my questions and answers from) - https://docs.google.com/forms/d/e/1FAIpQLScpN6BRKxiXR-JDf0_5CJY0d1zu66_2FTw4A39vwBgDqdZA6w/viewform
+
+https://www.w3schools.com/howto/howto_js_redirect_webpage.asp
+
+https://www.youtube.com/watch?v=7_kaX07tVFc
+
+https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/#:~:text=To%20sum%20up%2C%20to%20create,single%20line%20text%20input%20field.
+
+https://www.youtube.com/watch?v=-ZRDZyUjEEI
+
+https://www.youtube.com/watch?v=UH5QPYMFlIM
+
+https://dev.to/javascript_jeep/how-to-empty-the-dom-element-in-javascript-nf8
+
+
 

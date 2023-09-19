@@ -5,8 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body onload="get()">
     <h1>High Scores:</h1>
-    
+    <form>
+        <label> Please enter your initials:</label>
+            <input type="text" id="name"/>
+        <label> Please enter your score:</label>
+            <input id="score"/>
+        <button type="button" id="button">Submit</button>  
+    </form>
+    <div id="output"></div>
+    <div id="output1"></div>
+    <script src="assets/js/script1.js"></script>
 </body>
 </html>
