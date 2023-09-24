@@ -17,3 +17,5 @@ function get(){
     localStorage.getItem("output");
     document.getElementById("output1").innerHTML = output; 
 }
+
+get();
